@@ -1,0 +1,15 @@
+{
+  "overrides": [{
+    "files": "*.tsx",
+    "options": {
+      "printWidth": 100,
+      "bracketSpacing": false,
+      "jsxBracketSameLine": true,
+      "singleQuote": true,
+      "trailingComma": "all",
+      "tabWidth": 2,
+      "useTabs": true,
+      "arrowParens": "always"
+    }
+  }]
+}
