@@ -1,0 +1,17 @@
+.widget__list {
+  .widget__ul {
+    padding-left: 0;
+  }
+
+  li.widget__li {
+    list-style: none;
+    padding: .5rem;
+    border-bottom: 1px solid #00000030;
+    display: flex;
+    justify-content: space-between;
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+}

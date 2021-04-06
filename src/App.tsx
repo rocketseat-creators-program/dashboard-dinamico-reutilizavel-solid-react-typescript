@@ -1,13 +1,13 @@
 import React from 'react';
-import {Dashboard} from 'src/components/Dashboard-initial/Dashboard';
+import {Dashboard} from 'src/components/Dashboard/Dashboard';
+import {widgets} from 'src/mocks/dashboard.data';
 
 import './styles/main.scss';
 
 const App = () => {
 	return (
 		<div className="App">
-			<h1>My Awesome SOLID Dashboard</h1>
-			<Dashboard />
+			<Dashboard title="My Awesome SOLID Dashboard" widgets={widgets} />
 		</div>
 	);
 };
