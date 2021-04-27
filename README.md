@@ -53,9 +53,6 @@ Canal no Youtube onde o Rafael Perozin vai além do código e fala de soft skill
 
 https://www.youtube.com/c/rafaelperozin
 
-Meu Linkedin: https://www.linkedin.com/in/rafaelperozin
-Meu GitHub: https://github.com/rafaelperozin
-
 ## Configurações usadas no projeto
 
 Você pode ver tudo nos arquivos que estão na raiz do projeto.
