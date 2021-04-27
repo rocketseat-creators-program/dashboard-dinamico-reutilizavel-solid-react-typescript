@@ -1,0 +1,5 @@
+.widget--half {
+  // remove margin and padding
+  flex-basis: calc(50% - 3rem);
+  background-color: #85C1E9;
+}

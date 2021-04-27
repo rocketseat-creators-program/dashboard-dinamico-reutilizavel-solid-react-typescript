@@ -1,0 +1,5 @@
+.widget--quarter {
+  // remove margin and padding
+  flex-basis: calc(25% - 3rem);
+  background-color: #D2B4DE;
+}
